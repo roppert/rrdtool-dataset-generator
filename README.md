@@ -3,7 +3,6 @@ Three simple bash scripts to create RRDTool example dataset.
 
 ## Quick Usage
 
-    ::bash
     $ ./create.sh
     $ ./update.sh
     $ ./graph.sh
